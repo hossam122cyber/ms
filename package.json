@@ -1,0 +1,16 @@
+{
+  "name": "vercel-edge-function",
+  "version": "1.0.0",
+  "description": "Simple Edge Function for Vercel",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "keywords": ["vercel", "edge", "function"],
+  "author": "",
+  "license": "MIT"
+}
