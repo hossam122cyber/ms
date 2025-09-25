@@ -3,5 +3,10 @@
     "api/hello.js": {
       "runtime": "edge"
     }
+  },
+  "build": {
+    "env": {
+      "NODEJS_VERSION": "22"
+    }
   }
 }
